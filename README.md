@@ -1,7 +1,7 @@
 ### Oi! 👋
-- 🚍 Estagiária no programa <a href = "https://blog.buser.com.br/novidades/buser-lanca-programa-capacitacao-profissionais-tecnologia/"><b>Buser Tech</b></a> 💗
+- 🚍 Estagiária no programa <a href = "https://blog.buser.com.br/novidades/buser-lanca-programa-capacitacao-profissionais-tecnologia/" target="_blank"><b>Buser Tech</b></a> 💗
 - 🎓 Graduanda em Ciência e Tecnologia pela <b>UNIFESP</b>
-- 📝 Participo do programa <a href = "https://desenvolve.grupoboticario.com.br/"><b>Desenvolve</b></a> do <b>Grupo Boticário</b> - Formação <b>Full Stack</b>
+- 📝 Participo do programa <a href = "https://desenvolve.grupoboticario.com.br/" target="_blank"><b>Desenvolve</b></a> do <b>Grupo Boticário</b> - Formação <b>Full Stack</b>
 - 🎓 Formada cientista biomédica pela <b>UNESP</b>
 
 <div style="display: inline_block"><br>
