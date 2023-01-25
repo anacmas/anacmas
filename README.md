@@ -1,4 +1,4 @@
-### Oi, sou a Carol! 👋
+<h1>Oi, sou a Carol! 👋</h1>
 - 💻 Estagiária de desenvolvimento Fullstack no programa <a href = "https://blog.buser.com.br/novidades/buser-lanca-programa-capacitacao-profissionais-tecnologia/" target="_blank"><b>Buser Tech</b></a> da <b>Buser</b> 🚍
 - 🎓 Graduanda em Ciência e Tecnologia pela <b>UNIFESP</b>
 - 🎓 Formada cientista biomédica pela <b>UNESP</b>
